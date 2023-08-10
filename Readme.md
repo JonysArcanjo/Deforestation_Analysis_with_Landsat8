@@ -7,6 +7,8 @@
 
 The Indigenous Land (IL) Mãe Maria, located in the Amazon Region, specifically in the southern part of the state of Pará, is home to three indigenous groups: Gavião Akrãtikatêjê, Gavião Kykatejê, and Gavião Parkatêjê, totaling 709 inhabitants in an area of 62,488 hectares. These communities face **conflicts** stemming from various activities, such as **governmental entities' actions, dam and hydroelectric power plant construction, the establishment of waterways, highways, railways, port complexes/terminals, and airports, in addition to public policies and environmental legislation.**
 
+![mae_maria](https://github.com/JonysArcanjo/Deforestation_Analysis_with_Landsat8/assets/48812740/2633e088-d745-4d28-9af5-73c3a5c441fa)
+
 ## Project Objective
 
 Our objective is to examine the consequences on vegetation cover in Indigenous Land Mãe Maria, using the Normalized Difference Vegetation Index (NDVI) to assess variations in vegetation between the years 2013 and 2023. To achieve this goal, we will construct a sequential process that involves collecting information from the distinct spectral bands of the Landsat 8 satellite.
