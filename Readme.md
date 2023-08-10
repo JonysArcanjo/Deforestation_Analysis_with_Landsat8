@@ -31,6 +31,7 @@ This project requires the following libraries:
 ## Conclusion
 
 The analysis of the **Normalized Difference Vegetation Index (NDVI)** on satellite images of Indigenous Land Mãe Maria revealed an increase of approximately **3.7905%** in vegetation cover between **2013 and 2023**. This is a positive sign of environmental recovery and preservation, despite the conflicts and pressures faced by indigenous communities in the region.
+![v1](https://github.com/JonysArcanjo/Deforestation_Analysis_with_Landsat8/assets/48812740/91386d31-fc6b-4231-a30a-745abf530bb8)
 
 However, the ongoing need for environmental conservation and protection is emphasized to ensure a sustainable future for local communities and the ecosystem. The scientific approach employed underscores the importance of balancing human development and environmental preservation.
 
