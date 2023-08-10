@@ -1,5 +1,6 @@
 # Deforestation Analysis with Landsat 8
 
+![nasa-NuE8Nu3otjo-unsplash (1)](https://github.com/JonysArcanjo/Deforestation_Analysis_with_Landsat8/assets/48812740/12ed5a0a-49a6-4a8d-8465-e7bd67680a9c)
 
 
 ## Context
