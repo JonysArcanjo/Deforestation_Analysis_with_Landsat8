@@ -37,6 +37,13 @@ The analysis of the **Normalized Difference Vegetation Index (NDVI)** on satelli
 
 However, the ongoing need for environmental conservation and protection is emphasized to ensure a sustainable future for local communities and the ecosystem. The scientific approach employed underscores the importance of balancing human development and environmental preservation.
 
+## Contact
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/jonysarcanjo/)
+
+[![Medium](https://img.icons8.com/color/32/000000/medium-logo.png)](https://medium.com/@jonysarcanjo)
+
+e-mail: contato.jonysarcanjo@gmail.com
+
 ## Useful Links
 
 - [Earth Engine](https://developers.google.com/earth-engine/datasets/catalog)
