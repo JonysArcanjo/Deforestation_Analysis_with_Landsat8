@@ -1,3 +1,8 @@
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@jonysarcanjo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jonysarcanjo/) [![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/) [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAWElEQVQ4T2NkIAoYf/58+Q8YRiQRMyAaMgPjEGMEAzMDI8RAbGgYGBgEGMEIiAyNAAYxAyMDI8RAbGgYJoNjYGBgYBBlZmZmoIJRYPj/8+fPf2HkYGBgAADJAxMFtDq5TAAAAABJRU5ErkJggg==&logoColor=white)](YOUR_LINK_HERE)
+
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Deforestation Analysis with Landsat 8
 
 ![nasa-NuE8Nu3otjo-unsplash (1)](https://github.com/JonysArcanjo/Deforestation_Analysis_with_Landsat8/assets/48812740/12ed5a0a-49a6-4a8d-8465-e7bd67680a9c)
